@@ -1,4 +1,9 @@
 # Taller - 1 (Análisis de imágenes por software)
 
+
 ## Propósito 🏁
-Introducir el análisis de imágenes/video en el lenguaje de Processing.
+_Introducir el análisis de imágenes en el lenguaje de Processing_.
+
+
+## Tareas 📋
+Implementar las siguientes operaciones de análisis para imágenes/video:

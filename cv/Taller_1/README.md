@@ -1,8 +1,6 @@
-# Taller - 1
+# Taller - 1 (Análisis de imágenes por software)
 
 ## Integrantes
 
-| Integrante | github nick |
-|------------|-------------|
-|Gonzalo Eduardo Baez Sabogal|gebaezs|
-|Jhon Jairo Mueses Quitiaquez|jjmuesesq|
+## Propósito
+Introducir el análisis de imágenes/video en el lenguaje de Processing.

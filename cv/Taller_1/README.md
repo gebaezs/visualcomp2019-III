@@ -1,4 +1,4 @@
-# visualcomp2019-III
+# Taller - 1
 
 ## Integrantes
 
